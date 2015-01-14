@@ -1,0 +1,7 @@
+/node_modules
+/www
+.sass-cache/
+npm-debug.log
+
+# OSX
+*.DS_Store
