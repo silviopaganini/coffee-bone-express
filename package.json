@@ -1,17 +1,17 @@
 {
   "name": "coffee-bone-express",
   "description": "https://github.com/silviopaganini/coffee-bone-express",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/silviopaganini/coffee-bone-express",
   "author": {
     "name": "@silviopaganini | s2paganini.com | @unit9"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/silviopaganini/coffee-bone-express.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/silviopaganini/coffee-bone-express/issues"
   },
   "license": "BSD",
   "engines": {
