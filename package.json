@@ -1,9 +1,8 @@
-
 {
   "name": "coffee-bone-express",
-  "description": "",
-  "version": "1.0",
-  "homepage": "",
+  "description": "https://github.com/silviopaganini/coffee-bone-express",
+  "version": "1.0.0",
+  "homepage": "https://github.com/silviopaganini/coffee-bone-express",
   "author": {
     "name": "@silviopaganini | s2paganini.com | @unit9"
   },
