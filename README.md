@@ -6,7 +6,7 @@ Fork from Coffee-Bone adding Node.JS Express server.
 
 1. Clone repo into `[DIR NAME]`
 2. `$ cd [DIR NAME]`
-3. `$ npm install` *you might need to run it twice, gulp-sass is currently buggy
+3. `$ npm install` *you might need to run it twice, gulp-sass is currently buggy*
 4. `$ node install.js [APP NAMESPACE]` *optional - just namespaces app in all coffee files*
 5. `$ ./server/run`
 * (new tab)
