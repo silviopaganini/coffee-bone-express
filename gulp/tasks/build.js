@@ -5,8 +5,8 @@ gulp.task('build', function() {
 
     var args = [
         'unrevAssets',
-        ['browserify', 'sass', 'vendor', 'images', 'metadata', 'dataMin'],
-        'html',
+        ['browserify', 'sass', 'vendor', 'modernizr', 'images', 'metadata', 'dataMin'],
+        'html'
     ];
 
     if (!global.isWatching) {
